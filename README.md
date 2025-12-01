@@ -8,7 +8,9 @@ Mission:Escape is an intentionally vulnerable machine created to practice penetr
  
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="40" height="40" /> Machine Download
    https://drive.google.com/file/d/1XUJdpkLFbCH0bF9SttH5OG5EXndp-Umn/view?usp=sharing
+   
 <hr>
+
 ### <b>✎</b>  Complete Walkthrough 
 
    Coming soon
