@@ -11,6 +11,8 @@ Mission:Escape is an intentionally vulnerable machine created to practice penetr
 
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ledger.png" alt="Ledger" width="40" height="40" /> Complete Walkthrough 
 
+➥ Coming soon
+
 ### SHA256 Checksum
 To verify the integrity of the downloaded machine, use the following SHA256 checksum:
 
