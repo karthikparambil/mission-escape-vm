@@ -7,8 +7,11 @@ Mission:Escape is an intentionally vulnerable machine created to practice penetr
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="50" height="50" /> Download & Resources  
 
 ### <b>⇩</b>  Machine Download
+   https://mega.nz/file/6wpDUZaK#Rhjxgg7aiKMHpME-mIFMojaHbO-9kjUApX95mpyWtJ4
+### <b>⇩</b>  Mirror Download
    https://drive.google.com/file/d/1XUJdpkLFbCH0bF9SttH5OG5EXndp-Umn/view?usp=sharing
-   
+
+
 <hr>
 
 ### <b>✎</b>  Complete Walkthrough 
