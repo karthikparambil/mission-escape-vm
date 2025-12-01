@@ -14,8 +14,10 @@ Mission:Escape is an intentionally vulnerable machine created to practice penetr
 ### SHA256 Checksum
 To verify the integrity of the downloaded machine, use the following SHA256 checksum:
 
-``` 2a5f4c8d9b65a99450ae269f42f457c8881f8016865a9e24c3771c4fe39e06b6  escape.ova
+```
+2a5f4c8d9b65a99450ae269f42f457c8881f8016865a9e24c3771c4fe39e06b6  escape.ova
 ```
 You can check the checksum on Linux using:
-``` sha256sum escape.ova
+```
+sha256sum escape.ova
 ```
