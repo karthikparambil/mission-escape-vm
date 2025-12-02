@@ -30,4 +30,6 @@ You can check the checksum on Linux using:
 ```
 sha256sum escape.ova
 ```
+
+## Screenshot
 <img src="https://github.com/karthikparambil/mission-escape-vm/blob/main/images/login.png">
