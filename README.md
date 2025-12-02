@@ -1,6 +1,8 @@
 # Mission: Escape vuln OS
 A prison break themed vulnerable virtual machine designed for cybersecurity training
 
+<img src="https://github.com/karthikparambil/mission-escape-vm/blob/main/images/banner.png">
+
 ## Overview
 Mission:Escape is an intentionally vulnerable machine created to practice penetration testing and learn about security. It includes a variety of weaknesses in its services and applications, offering a practical and realistic setting for security learners to develop their skills.
 
@@ -28,3 +30,4 @@ You can check the checksum on Linux using:
 ```
 sha256sum escape.ova
 ```
+<img src="https://github.com/karthikparambil/mission-escape-vm/blob/main/images/login.png">
