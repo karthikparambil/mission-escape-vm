@@ -1,4 +1,4 @@
-# Mission: Escape vuln OS
+# Mission: Escape vuln OS 
 A prison break themed vulnerable virtual machine designed for cybersecurity training
 
 <img src="https://github.com/karthikparambil/mission-escape-vm/blob/main/images/banner.png">
